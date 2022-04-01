@@ -13,7 +13,7 @@ const IndexPage = () => (
     <p>Now go build something great.</p>
     <StaticImage
       src="../images/stock-vector-letter-l-eleven-logo-design-logo-for-business-statistics-1664400928.jpg
-      width={300}
+      width=100%
       quality={95}
       formats={["auto", "webp", "avif"]}
       alt="E113V3N"
