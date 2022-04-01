@@ -12,11 +12,11 @@ const IndexPage = () => (
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <StaticImage
-      src="../images/gatsby-astronaut.png"
+      src="../images/stock-vector-letter-l-eleven-logo-design-logo-for-business-statistics-1664400928.jpg
       width={300}
       quality={95}
       formats={["auto", "webp", "avif"]}
-      alt="A Gatsby astronaut"
+      alt="E113V3N"
       style={{ marginBottom: `1.45rem` }}
     />
     <p>
@@ -29,3 +29,4 @@ const IndexPage = () => (
 )
 
 export default IndexPage
+"
